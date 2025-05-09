@@ -1,0 +1,2 @@
+TOKEN = "TOKEN"
+# URL = "SERVER URL"
